@@ -8,7 +8,7 @@
 
 &nbsp; 
 ## Internship Details
-- **Intern ID:** CC99693
+- **Intern ID:** CC2025062299693
 - **Duration:** 1 month (01/07/2024 - 01/08/2024)
 - **Domain:** Python
 - **Offer Letter:** Available in Repo 
