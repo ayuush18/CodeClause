@@ -4,7 +4,7 @@
   <img src="https://businesswebsolutions.in/wp-content/uploads/2023/06/Code-Clause.png" alt="CodeClause Logo" width="500" height="165">
 </div>
 
-<br><p align="center">Welcome to the CodeClause Python Development Internship Program! This repository includes various projects (Currency Converter, Text Editor, Advanced URL Shortener) I had worked on during my internship with CodeClause .</p>
+<br><p align="center">Welcome to my CodeClause Python Development Internship Program! This repository includes various projects (Currency Converter, Text Editor, Advanced URL Shortener) I had worked on during my internship with CodeClause .</p>
 
 &nbsp; 
 ## Internship Details
